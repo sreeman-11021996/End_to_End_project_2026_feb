@@ -1,0 +1,20 @@
+Agenda
+
+1. Set Up Project with GitHub
+2. Loggers and Exception
+3. Data Ingestion
+4. Data Transformation
+5. Model Trainer
+6. Model Evaluation
+7. Model Deployment
+
+CI/CD Pipelines - GitHub Actions
+Deployment - AWS
+---------------------------------------------------------------------------
+
+Part 1 Agenda
+
+1. Set up the GitHub {Repository}
+  a) new environment
+  b) setup.py
+  c) requirements.txt

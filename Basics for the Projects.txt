@@ -1,0 +1,21 @@
+Basics for the Projects :
+
+----------------------------------------------------------------------------
+1. Anaconda prompt :
+changing directory - > cd <file path>
+changing drive to D drive - > D:
+Launching Vscode instance - >code .
+----------------------------------------------------------------------------
+2. Creating an environment & install packages :
+
+cmd terminal> conda create -p venv python==3.8 -y
+cmd terminal> conda activate venv/
+----------------------------------------------------------------------------
+3. clone and sync GitHub
+
+cmd terminal (venv)> git init
+cmd terminal (venv)> git add README.md
+cmd terminal (venv)> git commit -m "First commit"
+cmd terminal (venv)> git branch -M main
+cmd terminal (venv)> git remote add origin https://github.com/sreeman-11021996/Machine_Learning_Projects_Portfolio/tree/main/end_to_end_projects.git
+----------------------------------------------------------------------------
