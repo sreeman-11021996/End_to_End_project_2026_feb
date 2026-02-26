@@ -17,5 +17,9 @@ cmd terminal (venv)> git init
 cmd terminal (venv)> git add README.md
 cmd terminal (venv)> git commit -m "First commit"
 cmd terminal (venv)> git branch -M main
-cmd terminal (venv)> git remote add origin https://github.com/sreeman-11021996/Machine_Learning_Projects_Portfolio/tree/main/end_to_end_projects.git
+
+cmd terminal (venv)> git remote add origin https://github.com/sreeman-11021996/End_to_End_project_2026_feb.git 
+{## remote nicknamed origin is added to sync the git with the repo}
+
+
 ----------------------------------------------------------------------------
