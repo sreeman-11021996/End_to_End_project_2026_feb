@@ -21,5 +21,12 @@ cmd terminal (venv)> git branch -M main
 cmd terminal (venv)> git remote add origin https://github.com/sreeman-11021996/End_to_End_project_2026_feb.git 
 {## remote nicknamed origin is added to sync the git with the repo}
 
+cmd terminal (venv)> git push -u origin main 
+{## -u means origin main need not be explicitly stated next time you push}
+----------------------------------------------------------------------------
+4. 
+  Create a .gitignore file
+  Create setup.py {to create the application as a package and even deploy in pypi}
 
+  Create requirements.txt {all pckages needed to be installed while implementing the project}
 ----------------------------------------------------------------------------

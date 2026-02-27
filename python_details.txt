@@ -1,0 +1,12 @@
+Type Hinting : 
+
+if __name__ == "__main__" : 
+    pass
+
+
+Context manager : opening and closing files, Unlocing and locking shared memory
+                : Syntax - 
+                    with something{open(file_name,method)} as f :
+                        do operation {write(...)}
+
+
